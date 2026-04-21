@@ -173,7 +173,6 @@ header {
 .qr-card .company-name {
   font-weight: 600;
   font-size: 0.95rem;
-  text-transform: uppercase;
   letter-spacing: 0.06em;
   color: var(--text-primary);
   text-align: center;

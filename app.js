@@ -6,15 +6,15 @@
     { file: 'amd.png', name: 'amd' },
     { file: 'atlassian.png', name: 'Atlassian' },
     { file: 'avepoint.png', name: 'AvePoint' },
-    { file: 'blackduck.png', name: 'Black Duck' },
-    { file: 'cdata.png', name: 'cdatasoftware' },
-    { file: 'datadog.png', name: 'Datadog' },
+    { file: 'blackduck.png', name: 'BlackDuck' },
+    { file: 'cdata.png', name: 'CDataSoftware' },
+    { file: 'datadog.png', name: 'datadog' },
     { file: 'datahub.png', name: 'DataHub' },
     { file: 'gitlab.png', name: 'GitLab' },
-    { file: 'intel.png', name: 'Intel' },
+    { file: 'intel.png', name: 'intel' },
     { file: 'okta.png', name: 'Okta' },
-    { file: 'redhat.png', name: 'Red Hat' },
-    { file: 'salesforce.png', name: 'Salesforce' },
+    { file: 'redhat.png', name: 'redhat' },
+    { file: 'salesforce.png', name: 'salesforce' },
   ];
 
   const grid = document.getElementById('qr-grid');
